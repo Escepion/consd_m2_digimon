@@ -1,0 +1,23 @@
+.textoDigimon{
+    background-color: pink;
+    color: green;
+    font-size: 20px;
+
+}
+
+.listaCompleta{
+    background-color: black;
+    color: white;
+}
+
+#contenedorPadre{
+    background-image: url(https://www.grindosaur.com/img/games/digimon-world/digimon-world-file-island.jpg);
+}
+
+.textoDigimon{
+    background-color: yellow;
+}
+
+body{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/c1c83db2-05bb-47ba-842e-34c9c62e1cac/dbaw0vi-ab013c20-53a1-43a4-a166-b2cb0acf0557.png);
+}
